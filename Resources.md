@@ -17,3 +17,8 @@
 - https://www.google.com/books/edition/James_Stirling_s_Methodus_Differentialis/JPDxBwAAQBAJ?hl=en&gbpv=1&dq=james+stirling+1717+Taylor&pg=PA291&printsec=frontcover
 - https://www.google.com/books/edition/The_differnetial_method_or_A_treatise_co/j2xbAAAAQAAJ?hl=en&gbpv=1&dq=james+stirling&printsec=frontcover
 - https://matheducators.stackexchange.com/questions/21023/an-introductory-example-for-taylor-series-12th-grade/21061#21061
+
+### Misc
+
+- https://observablehq.com/@robinhouston/the-construction-of-a-parabola
+- [History and the Liberal Arts](http://www.rosenfels.org/Klein)
