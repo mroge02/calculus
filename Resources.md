@@ -22,3 +22,8 @@
 
 - https://observablehq.com/@robinhouston/the-construction-of-a-parabola
 - [History and the Liberal Arts](http://www.rosenfels.org/Klein)
+- [Shurman textbook](https://people.reed.edu/~jerry/111/calc.pdf)
+- [Swanson textbook][https://www.math.purdue.edu/~gcavigli/Swanson.pdf)
+- [Ray Mayer Math 111](http://people.reed.edu/~mayer/math111.html/math111.pdf)
+- [Ray Mayer Math 112](http://people.reed.edu/~mayer/math112.html/math112.pdf)
+
