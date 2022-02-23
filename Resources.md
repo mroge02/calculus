@@ -22,6 +22,7 @@
 ### Integration
 
 - https://www.johndcook.com/blog/2009/10/25/how-to-differentiate-a-non-differentiable-function/
+- Riemann, Ueber die Darstellbarkeit..., https://www.maths.tcd.ie/pub/HistMath/People/Riemann/Trig/Trig.pdf (TeX'd)
 
 
 ### Examples
