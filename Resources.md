@@ -25,10 +25,15 @@
 - Riemann, Ueber die Darstellbarkeit..., https://www.maths.tcd.ie/pub/HistMath/People/Riemann/Trig/Trig.pdf (TeX'd)
 
 
-### Examples
+### Examples- 
 
 - https://github.com/mroge02/Tunnel-OptimizationExample
 
+
+### History/Primary sources
+
+- Riemann, Ueber die Darstellbarkeit..., https://www.maths.tcd.ie/pub/HistMath/People/Riemann/Trig/Trig.pdf (TeX'd)
+- Cauchy, "to reconconcile the rigor of proofs with simplicity of methods." ("Dans la solution des différens problèmes, j'ai cherché à concilier la rigueur des démonstrations avec la simplicité des méthodes.") https://gallica.bnf.fr/ark:/12148/bpt6k1057814h/f11.item (p. v), https://iris.univ-lille.fr/pdfpreview/bitstream/handle/1908/4027/41077-2-5.pdf?sequence=1 (p. 9)
 
 ### Misc
 
