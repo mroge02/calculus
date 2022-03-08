@@ -35,6 +35,12 @@
 - Riemann, Ueber die Darstellbarkeit..., https://www.maths.tcd.ie/pub/HistMath/People/Riemann/Trig/Trig.pdf (TeX'd)
 - Cauchy, "to reconconcile the rigor of proofs with simplicity of methods." ("Dans la solution des différens problèmes, j'ai cherché à concilier la rigueur des démonstrations avec la simplicité des méthodes.") https://gallica.bnf.fr/ark:/12148/bpt6k1057814h/f11.item (p. v), https://iris.univ-lille.fr/pdfpreview/bitstream/handle/1908/4027/41077-2-5.pdf?sequence=1 (p. 9)
 
+
+### Complex numbers and functions
+
+- *Quanta*, Roots of unity, https://www.quantamagazine.org/the-simple-math-behind-the-mighty-roots-of-unity-20210923/
+
+
 ### Misc
 
 - https://observablehq.com/@robinhouston/the-construction-of-a-parabola
