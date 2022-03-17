@@ -61,3 +61,4 @@
 - DigiZeitschriften, https://www.digizeitschriften.de/startseite/ (Crelle's: http://www.digizeitschriften.de/dms/toc/?PID=PPN243919689)
 - Riemann's works (in TeX), https://www.emis.de/classics/Riemann/index.html
 - Cambridge Digital Library, Newton's manuscripts, https://cudl.lib.cam.ac.uk/collections/newton/1
+- Euler Archive, http://scholarlycommons.pacific.edu/euler
