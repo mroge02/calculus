@@ -51,3 +51,13 @@
 - [Ray Mayer Math 112](http://people.reed.edu/~mayer/math112.html/math112.pdf)
 - [Peyre Fourier series approx. (Twitter)](https://twitter.com/gabrielpeyre/status/1498900914429693952?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), https://nbviewer.org/github/gpeyre/numerical-tours/blob/master/python/introduction_4_fourier_wavelets.ipynb
 
+## Online libraries
+
+- Internet Archive, https://archive.org/
+- Gallica/BNF, https://gallica.bnf.fr/
+- Numdam, http://www.numdam.org/
+- ETH Zürich (e-rara), https://www.e-rara.ch/
+- Open Library, https://openlibrary.org/
+- DigiZeitschriften, https://www.digizeitschriften.de/startseite/ (Crelle's: http://www.digizeitschriften.de/dms/toc/?PID=PPN243919689)
+- Riemann's works (in TeX), https://www.emis.de/classics/Riemann/index.html
+- Cambridge Digital Library, Newton's manuscripts, https://cudl.lib.cam.ac.uk/collections/newton/1
