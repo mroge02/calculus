@@ -64,3 +64,4 @@
 - Cambridge Digital Library, Newton's manuscripts, https://cudl.lib.cam.ac.uk/collections/newton/1
 - Euler Archive, http://scholarlycommons.pacific.edu/euler
 - Hathi Trust, https://babel.hathitrust.org/
+- HAL Open Science, https://hal.archives-ouvertes.fr/
