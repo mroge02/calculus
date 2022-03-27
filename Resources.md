@@ -57,6 +57,7 @@
 - [Ray Mayer Math 112](http://people.reed.edu/~mayer/math112.html/math112.pdf)
 - [Peyre Fourier series approx. (Twitter)](https://twitter.com/gabrielpeyre/status/1498900914429693952?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), https://nbviewer.org/github/gpeyre/numerical-tours/blob/master/python/introduction_4_fourier_wavelets.ipynb
 - Mathematical model for fire spread in wildland fuels, https://www.fs.fed.us/rm/pubs_int/int_rp115.pdf
+- Calculus without Hocus Pocus, https://www.google.com/books/edition/Calculus_Without_Hocus_Pocus/YpifDwAAQBAJ?hl=en&gbpv=1
 
 ## Online libraries
 
