@@ -35,7 +35,7 @@
 
 - Riemann, Ueber die Darstellbarkeit..., https://www.maths.tcd.ie/pub/HistMath/People/Riemann/Trig/Trig.pdf (TeX'd)
 - Cauchy, "to reconconcile the rigor of proofs with simplicity of methods." ("Dans la solution des différens problèmes, j'ai cherché à concilier la rigueur des démonstrations avec la simplicité des méthodes.") https://gallica.bnf.fr/ark:/12148/bpt6k1057814h/f11.item (p. v), https://iris.univ-lille.fr/pdfpreview/bitstream/handle/1908/4027/41077-2-5.pdf?sequence=1 (p. 9)
-- Angesi, [Tomo I](https://www.google.com/books/edition/Instituzioni_analitiche/L0pbAAAAcAAJ?hl=en), [Tomo II](https://www.google.com/books/edition/Instituzioni_analitiche_ad_uso_della_gio/fqp3BwruNk0C?hl=en&gbpv=1) (1000 pages in all!)
+- Angesi, [Tomo I](https://www.google.com/books/edition/Instituzioni_analitiche/L0pbAAAAcAAJ?hl=en), [Tomo II, complete figs.](https://www.google.com/books/edition/_/WqwuBdTP9RkC?hl=en&gbpv=1), [Tomo II, illegible figs.](https://www.google.com/books/edition/Instituzioni_analitiche_ad_uso_della_gio/fqp3BwruNk0C?hl=en&gbpv=1), [Tomo II (legible figs., half cut off though](https://www.google.com/books/edition/_/BfIvsLcA8uQC?hl=en&gbpv=1), [Tomo II, sometimes more than half the figs.](https://www.google.com/books/edition/_/w81ibgr07RMC?hl=en&gbpv=1) (1000 pages in all!)
 
 ### Sequences
 
