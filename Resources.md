@@ -32,6 +32,17 @@
 
 ### Induction
 
+- ResearchGate https://www.researchgate.net/publication/24013960_A_Self-Contained_and_Easily_Accessible_Discussion_of_the_Method_of_Descente_Infinie_and_Fermat's_Only_Explicitly_Known_Proof_by_Descente_Infinie/link/00b495320e92592520000000/download
+- Euclid, Elements, book 7, type Def, number 1 http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0085%3Abook%3D7%3Atype%3DDef%3Anumber%3D1
+- Euclid's Elements, Book VIII http://aleph0.clarku.edu/~djoyce/elements/bookVIII/bookVIII.html
+- Structural induction - Wikipedia https://en.wikipedia.org/wiki/Structural_induction
+- Well-founded relation - Wikipedia https://en.wikipedia.org/wiki/Well-founded_relation
+- https://arxiv.org/pdf/0902.3623.pdf
+- Wayback Machine https://web.archive.org/web/20190714035011/http://server.math.uoc.gr/%7Etzanakis/Courses/NumberTheory/MathInduction.pdf
+- https://www.creative-mathematics.cunbm.utcluj.ro/wp-content/uploads/2005_vol_14/creative_2005_14_019_030.pdf
+- Diophanti Alexandrini Arithmeticorum libri sex, et De numeris multangulis l... - Google Books https://www.google.com/books/edition/Diophanti_Alexandrini_Arithmeticorum_lib/yx9VIgeaCEYC?hl=en&gbpv=1&bsq=338
+
+
 
 ### Examples- 
 
