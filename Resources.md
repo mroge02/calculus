@@ -36,12 +36,6 @@
 - https://github.com/mroge02/Tunnel-OptimizationExample
 
 
-### History/Primary sources
-
-- Riemann, Ueber die Darstellbarkeit..., https://www.maths.tcd.ie/pub/HistMath/People/Riemann/Trig/Trig.pdf (TeX'd)
-- Cauchy, "to reconconcile the rigor of proofs with simplicity of methods." ("Dans la solution des différens problèmes, j'ai cherché à concilier la rigueur des démonstrations avec la simplicité des méthodes.") https://gallica.bnf.fr/ark:/12148/bpt6k1057814h/f11.item (p. v), https://iris.univ-lille.fr/pdfpreview/bitstream/handle/1908/4027/41077-2-5.pdf?sequence=1 (p. 9)
-- Angesi, [Tomo I](https://www.google.com/books/edition/Instituzioni_analitiche/L0pbAAAAcAAJ?hl=en), [Tomo II, complete figs.](https://www.google.com/books/edition/_/WqwuBdTP9RkC?hl=en&gbpv=1), [Tomo II, illegible figs.](https://www.google.com/books/edition/Instituzioni_analitiche_ad_uso_della_gio/fqp3BwruNk0C?hl=en&gbpv=1), [Tomo II (legible figs., half cut off though](https://www.google.com/books/edition/_/BfIvsLcA8uQC?hl=en&gbpv=1), [Tomo II, sometimes more than half the figs.](https://www.google.com/books/edition/_/w81ibgr07RMC?hl=en&gbpv=1) (1000 pages in all!)
-
 ### Sequences
 
 - Deep Symbolic Regression for Recurrent Sequences, http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com
@@ -89,7 +83,8 @@
 
 - https://www.maa.org/sites/default/files/images/upload_library/46/NCTM/mt2000-11-659a.pdf
 - The Missing Problems of Gersonides—A Critical Edition, I - ScienceDirect https://www.sciencedirect.com/science/article/pii/S0315086000922808
-- http://web.stonehill.edu/compsci/Shai_papers/MathofLevi.pdf
+- N. Rabinovitch,*Rabbi Levi Ben Gershon and the Origins of Mathematical Induction,* 1970, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/41133303.pdf?refreqid=excelsior%3A5954083055b553f61eff3197d2191cb5&ab_segments=&origin=
+- Simonson, http://web.stonehill.edu/compsci/Shai_papers/MathofLevi.pdf
 - Virtual Judaica - Sefer Ma’aseh Hoshev, R. Levi ben Gershom, Frankfort am Main 1909 https://www.virtualjudaica.com/Listing/Details/1388071/Sefer-Maaseh-Hoshev-R-Levi-ben-Gershom-Frankfort-am-Main-1909
 - Distributivity-like Results in the Medieval Traditions of Euclid's Elements - Google Books https://www.google.com/books/edition/Distributivity_like_Results_in_the_Medie/StNSEAAAQBAJ?hl=en&gbpv=1&dq=Gersonides+wrote+Maaseh+Hoshev&pg=PA66&printsec=frontcover
 - Freudenthal induction -suspension - Google Search https://www.google.com/search?q=Freudenthal+induction+-suspension&client=safari&rls=en&sxsrf=APq-WBsGNOH3O4L1pNjwK12_qdF1I_JoNQ%3A1650731760470&ei=8CpkYuSkHNvTkPIPic2lwAE&ved=0ahUKEwjk3M6Bz6r3AhXbKUQIHYlmCRgQ4dUDCA0&uact=5&oq=Freudenthal+induction+-suspension&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjELADECc6BwgAEEcQsAM6BQghEKsCOgUIIRCgAUoECEEYAEoECEYYAFDZBFiaKWC5LmgDcAF4AIABiQGIAckGkgEEMTIuMpgBAKABAcgBCcABAQ&sclient=gws-wiz
@@ -99,8 +94,18 @@
 - https://www.repository.cam.ac.uk/bitstream/handle/1810/244353/pascalintro.pdf?sequence=2&isAllowed=y
 - Jerry Lodder, Pascal's Triangle and Mathematical Induction, 2017, https://digitalcommons.ursinus.edu/cgi/viewcontent.cgi?article=1005&context=triumphs_number
 - #258 - Œuvres complètes de Blaise Pascal. v.3. - Full View | HathiTrust Digital Library https://babel.hathitrust.org/cgi/pt?id=hvd.hn3klq&view=1up&seq=258&skin=2021
+- Mathematical induction - Wikipedia https://en.wikipedia.org/wiki/Mathematical_induction
 
 
+
+
+
+## History/Primary sources
+
+- Riemann, Ueber die Darstellbarkeit..., https://www.maths.tcd.ie/pub/HistMath/People/Riemann/Trig/Trig.pdf (TeX'd)
+- Cauchy, "to reconconcile the rigor of proofs with simplicity of methods." ("Dans la solution des différens problèmes, j'ai cherché à concilier la rigueur des démonstrations avec la simplicité des méthodes.") https://gallica.bnf.fr/ark:/12148/bpt6k1057814h/f11.item (p. v), https://iris.univ-lille.fr/pdfpreview/bitstream/handle/1908/4027/41077-2-5.pdf?sequence=1 (p. 9)
+- Angesi, [Tomo I](https://www.google.com/books/edition/Instituzioni_analitiche/L0pbAAAAcAAJ?hl=en), [Tomo II, complete figs.](https://www.google.com/books/edition/_/WqwuBdTP9RkC?hl=en&gbpv=1), [Tomo II, illegible figs.](https://www.google.com/books/edition/Instituzioni_analitiche_ad_uso_della_gio/fqp3BwruNk0C?hl=en&gbpv=1), [Tomo II (legible figs., half cut off though](https://www.google.com/books/edition/_/BfIvsLcA8uQC?hl=en&gbpv=1), [Tomo II, sometimes more than half the figs.](https://www.google.com/books/edition/_/w81ibgr07RMC?hl=en&gbpv=1) (1000 pages in all!)
+- Newton, *Principia,* https://www.google.com/books/edition/Newton_s_Principia/N-hHAQAAMAAJ?q=&gbpv=1&bsq=sphaerical
 
 
 
