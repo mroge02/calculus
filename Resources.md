@@ -18,8 +18,8 @@
 - https://www.google.com/books/edition/The_differnetial_method_or_A_treatise_co/j2xbAAAAQAAJ?hl=en&gbpv=1&dq=james+stirling&printsec=frontcover
 - https://matheducators.stackexchange.com/questions/21023/an-introductory-example-for-taylor-series-12th-grade/21061#21061
 - Sine/Cosine series via involutes (also idea for lim sin(x)/x):
-+   https://twitter.com/stevenstrogatz/status/1511426192334901251?cxt=HBwWhsC-paaH1fkpAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email
-+   The geometric interpretation of sin x = x - x³/3! + x⁵/5! -... - YouTube: https://www.youtube.com/watch?v=x09IsbVZeXo
+  + https://twitter.com/stevenstrogatz/status/1511426192334901251?cxt=HBwWhsC-paaH1fkpAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email
+  + The geometric interpretation of sin x = x - x³/3! + x⁵/5! -... - YouTube: https://www.youtube.com/watch?v=x09IsbVZeXo
 - Hi
 
 
