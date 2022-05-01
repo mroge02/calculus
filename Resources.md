@@ -107,12 +107,28 @@
 - Angesi, [Tomo I](https://www.google.com/books/edition/Instituzioni_analitiche/L0pbAAAAcAAJ?hl=en), [Tomo II, complete figs.](https://www.google.com/books/edition/_/WqwuBdTP9RkC?hl=en&gbpv=1), [Tomo II, illegible figs.](https://www.google.com/books/edition/Instituzioni_analitiche_ad_uso_della_gio/fqp3BwruNk0C?hl=en&gbpv=1), [Tomo II (legible figs., half cut off though](https://www.google.com/books/edition/_/BfIvsLcA8uQC?hl=en&gbpv=1), [Tomo II, sometimes more than half the figs.](https://www.google.com/books/edition/_/w81ibgr07RMC?hl=en&gbpv=1) (1000 pages in all!)
 - Newton, *Principia,* https://www.google.com/books/edition/Newton_s_Principia/N-hHAQAAMAAJ?q=&gbpv=1&bsq=sphaerical
 
+### Cauchy
+
+- Cauchy, Ouevres, http://portail.mathdoc.fr/cgi-bin/oetoc?id=OE_CAUCHY_1_8
+- Cours d'analyse de l'École royale polytechnique, par M. Augustin-Louis Cauchy,... 1re partie. Analyse algébrique | Gallica https://gallica.bnf.fr/ark:/12148/btv1b8626657t/f17.vertical
+- Cours d'analyse de l'Ecole polytechnique. 1. Analyse algébrique - Google Books https://www.google.com/books/edition/Cours_d_analyse_de_l_Ecole_polytechnique/wAsOAAAAQAAJ?hl=en&gbpv=1
+- http://users.uoa.gr/~spapast/TomeasDidaktikhs/Caychy/CauchyCoursdAnalyseAnAnnotatedTranslationSourcesandStudiesintheHistoryofMathematicsandPhysicalSciences.pdf
+- Résumé des leçons données à l'École royale polytechnique sur le calcul infinitésimal , par M. Augustin-Louis Cauchy,... Tome Ier | Gallica https://gallica.bnf.fr/ark:/12148/bpt6k62404287/f8.item.texteImage
+- mathematics - Origin of the Riemann-Lebesgue lemma - History of Science and Mathematics Stack Exchange https://hsm.stackexchange.com/questions/3869/origin-of-the-riemann-lebesgue-lemma
+- H. LEBESGUE, Sur les séries trigonométriques, http://www.numdam.org/article/ASENS_1903_3_20__453_0.pdf
+- Lebesgue Integration | SpringerLink https://link-springer-com.proxy.library.emory.edu/book/10.1007/978-1-4612-0781-8
+- Lebesgue, Development of the Notion of the Integral, https://link-springer-com.proxy.library.emory.edu/content/pdf/bbm%3A978-1-4612-0781-8%2F1.pdf
+- Cauchy, Mémoire sur les développments des fonctions en séries périodique; et al., T.6(1827) - Mémoires de l'Académie (royale) des sciences de l'Institut (imperial) de France. - Biodiversity Heritage Library https://www.biodiversitylibrary.org/item/55214#page/11/mode/1up
+- P. Jourdain, 1913, https://www.journals.uchicago.edu/doi/pdf/10.1086/357810
+
+
 
 
 ## Online libraries
 
 - Internet Archive, https://archive.org/
 - Gallica/BNF, https://gallica.bnf.fr/
+- MathDoc, http://www.mathdoc.fr
 - Numdam, http://www.numdam.org/
 - ETH Zürich (e-rara), https://www.e-rara.ch/
 - Open Library, https://openlibrary.org/
