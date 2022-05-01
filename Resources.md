@@ -30,19 +30,6 @@
 - https://www.johndcook.com/blog/2009/10/25/how-to-differentiate-a-non-differentiable-function/
 - Riemann, Ueber die Darstellbarkeit..., https://www.maths.tcd.ie/pub/HistMath/People/Riemann/Trig/Trig.pdf (TeX'd)
 
-### Induction
-
-- ResearchGate https://www.researchgate.net/publication/24013960_A_Self-Contained_and_Easily_Accessible_Discussion_of_the_Method_of_Descente_Infinie_and_Fermat's_Only_Explicitly_Known_Proof_by_Descente_Infinie/link/00b495320e92592520000000/download
-- Euclid, Elements, book 7, type Def, number 1 http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0085%3Abook%3D7%3Atype%3DDef%3Anumber%3D1
-- Euclid's Elements, Book VIII http://aleph0.clarku.edu/~djoyce/elements/bookVIII/bookVIII.html
-- Structural induction - Wikipedia https://en.wikipedia.org/wiki/Structural_induction
-- Well-founded relation - Wikipedia https://en.wikipedia.org/wiki/Well-founded_relation
-- https://arxiv.org/pdf/0902.3623.pdf
-- Wayback Machine https://web.archive.org/web/20190714035011/http://server.math.uoc.gr/%7Etzanakis/Courses/NumberTheory/MathInduction.pdf
-- https://www.creative-mathematics.cunbm.utcluj.ro/wp-content/uploads/2005_vol_14/creative_2005_14_019_030.pdf
-- Diophanti Alexandrini Arithmeticorum libri sex, et De numeris multangulis l... - Google Books https://www.google.com/books/edition/Diophanti_Alexandrini_Arithmeticorum_lib/yx9VIgeaCEYC?hl=en&gbpv=1&bsq=338
-
-
 
 ### Examples- 
 
@@ -78,6 +65,44 @@
 - [Peyre Fourier series approx. (Twitter)](https://twitter.com/gabrielpeyre/status/1498900914429693952?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), https://nbviewer.org/github/gpeyre/numerical-tours/blob/master/python/introduction_4_fourier_wavelets.ipynb
 - Mathematical model for fire spread in wildland fuels, https://www.fs.fed.us/rm/pubs_int/int_rp115.pdf
 - Calculus without Hocus Pocus, https://www.google.com/books/edition/Calculus_Without_Hocus_Pocus/YpifDwAAQBAJ?hl=en&gbpv=1
+
+
+## Induction, infinite descent, well-ordering property
+
+- ResearchGate https://www.researchgate.net/publication/24013960_A_Self-Contained_and_Easily_Accessible_Discussion_of_the_Method_of_Descente_Infinie_and_Fermat's_Only_Explicitly_Known_Proof_by_Descente_Infinie/link/00b495320e92592520000000/download
+- Euclid, Elements, book 7, type Def, number 1 http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0085%3Abook%3D7%3Atype%3DDef%3Anumber%3D1
+- Euclid's Elements, Book VIII http://aleph0.clarku.edu/~djoyce/elements/bookVIII/bookVIII.html
+- Structural induction - Wikipedia https://en.wikipedia.org/wiki/Structural_induction
+- Well-founded relation - Wikipedia https://en.wikipedia.org/wiki/Well-founded_relation
+- https://arxiv.org/pdf/0902.3623.pdf
+- Wayback Machine https://web.archive.org/web/20190714035011/http://server.math.uoc.gr/%7Etzanakis/Courses/NumberTheory/MathInduction.pdf
+- https://www.creative-mathematics.cunbm.utcluj.ro/wp-content/uploads/2005_vol_14/creative_2005_14_019_030.pdf
+- Diophanti Alexandrini Arithmeticorum libri sex, et De numeris multangulis l... - Google Books https://www.google.com/books/edition/Diophanti_Alexandrini_Arithmeticorum_lib/yx9VIgeaCEYC?hl=en&gbpv=1&bsq=338
+- Euler proof by induction -"Euler's formula" -characteristic - Google Search https://www.google.com/search?q=Euler+proof+by+induction+-%22Euler%27s+formula%22+-characteristic&client=safari&rls=en&sxsrf=APq-WBsK4FIQyakDkrYi4X1meUgRAa3Stw:1650427655815&ei=B4dfYta4McqhkPIP1O6v2A4&start=20&sa=N&ved=2ahUKEwiW2JuR4qH3AhXKEEQIHVT3C-s4ChDw0wN6BAgBEEo&biw=1156&bih=920&dpr=2
+- eulerarchive.maa.org/hedi/HEDI-2005-08.pdf http://eulerarchive.maa.org/hedi/HEDI-2005-08.pdf
+- "Observationes analyticae" by Leonhard Euler https://scholarlycommons.pacific.edu/euler-works/326/
+- https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1325&context=euler-works
+- W. H. Bussey, The Origin of Mathematical Induction, 1917, https://doi.org/10.2307/2974308, https://www.jstor.org/stable/2974308, https://www-jstor-org.proxy.library.emory.edu/stable/2974308?refreqid=excelsior%3A01a0ffa43490d0ad9c4f1199815d73ea&seq=1
+
+
+### Binomial theorem
+
+- https://www.maa.org/sites/default/files/images/upload_library/46/NCTM/mt2000-11-659a.pdf
+- The Missing Problems of Gersonides—A Critical Edition, I - ScienceDirect https://www.sciencedirect.com/science/article/pii/S0315086000922808
+- http://web.stonehill.edu/compsci/Shai_papers/MathofLevi.pdf
+- Virtual Judaica - Sefer Ma’aseh Hoshev, R. Levi ben Gershom, Frankfort am Main 1909 https://www.virtualjudaica.com/Listing/Details/1388071/Sefer-Maaseh-Hoshev-R-Levi-ben-Gershom-Frankfort-am-Main-1909
+- Distributivity-like Results in the Medieval Traditions of Euclid's Elements - Google Books https://www.google.com/books/edition/Distributivity_like_Results_in_the_Medie/StNSEAAAQBAJ?hl=en&gbpv=1&dq=Gersonides+wrote+Maaseh+Hoshev&pg=PA66&printsec=frontcover
+- Freudenthal induction -suspension - Google Search https://www.google.com/search?q=Freudenthal+induction+-suspension&client=safari&rls=en&sxsrf=APq-WBsGNOH3O4L1pNjwK12_qdF1I_JoNQ%3A1650731760470&ei=8CpkYuSkHNvTkPIPic2lwAE&ved=0ahUKEwjk3M6Bz6r3AhXbKUQIHYlmCRgQ4dUDCA0&uact=5&oq=Freudenthal+induction+-suspension&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjELADECc6BwgAEEcQsAM6BQghEKsCOgUIIRCgAUoECEEYAEoECEYYAFDZBFiaKWC5LmgDcAF4AIABiQGIAckGkgEEMTIuMpgBAKABAcgBCcABAQ&sclient=gws-wiz
+- https://ir.canterbury.ac.nz/bitstream/handle/10092/11738/12658469_Al-SamawalApril2015.pdf?sequence=1&isAllowed=y
+- https://devapeur.files.wordpress.com/2016/11/pascal-arithmetic-triangle.pdf
+- Treasures of the Library : Traité du triangle arithmetique : auec quelques autres petits traitez sur la mesme matière, https://cudl.lib.cam.ac.uk/view/PR-CCB-00013-00024/24
+- https://www.repository.cam.ac.uk/bitstream/handle/1810/244353/pascalintro.pdf?sequence=2&isAllowed=y
+- Jerry Lodder, Pascal's Triangle and Mathematical Induction, 2017, https://digitalcommons.ursinus.edu/cgi/viewcontent.cgi?article=1005&context=triumphs_number
+- #258 - Œuvres complètes de Blaise Pascal. v.3. - Full View | HathiTrust Digital Library https://babel.hathitrust.org/cgi/pt?id=hvd.hn3klq&view=1up&seq=258&skin=2021
+
+
+
+
 
 ## Online libraries
 
