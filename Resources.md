@@ -77,6 +77,7 @@
 - "Observationes analyticae" by Leonhard Euler https://scholarlycommons.pacific.edu/euler-works/326/
 - https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1325&context=euler-works
 - W. H. Bussey, The Origin of Mathematical Induction, 1917, https://doi.org/10.2307/2974308, https://www.jstor.org/stable/2974308, https://www-jstor-org.proxy.library.emory.edu/stable/2974308?refreqid=excelsior%3A01a0ffa43490d0ad9c4f1199815d73ea&seq=1
+- De Morgan, https://www.maa.org/press/periodicals/convergence/mathematical-treasure-augustus-de-morgan-and-mathematical-induction
 
 
 ### Binomial theorem
