@@ -70,12 +70,11 @@
 - Well-founded relation - Wikipedia https://en.wikipedia.org/wiki/Well-founded_relation
 - https://arxiv.org/pdf/0902.3623.pdf
 - Wayback Machine https://web.archive.org/web/20190714035011/http://server.math.uoc.gr/%7Etzanakis/Courses/NumberTheory/MathInduction.pdf
-- https://www.creative-mathematics.cunbm.utcluj.ro/wp-content/uploads/2005_vol_14/creative_2005_14_019_030.pdf
+- Michael Lambrou, Mathematical induction: Notes for teacher (Part 1), https://www.creative-mathematics.cunbm.utcluj.ro/wp-content/uploads/2005_vol_14/creative_2005_14_019_030.pdf
 - Diophanti Alexandrini Arithmeticorum libri sex, et De numeris multangulis l... - Google Books https://www.google.com/books/edition/Diophanti_Alexandrini_Arithmeticorum_lib/yx9VIgeaCEYC?hl=en&gbpv=1&bsq=338
 - Euler proof by induction -"Euler's formula" -characteristic - Google Search https://www.google.com/search?q=Euler+proof+by+induction+-%22Euler%27s+formula%22+-characteristic&client=safari&rls=en&sxsrf=APq-WBsK4FIQyakDkrYi4X1meUgRAa3Stw:1650427655815&ei=B4dfYta4McqhkPIP1O6v2A4&start=20&sa=N&ved=2ahUKEwiW2JuR4qH3AhXKEEQIHVT3C-s4ChDw0wN6BAgBEEo&biw=1156&bih=920&dpr=2
-- eulerarchive.maa.org/hedi/HEDI-2005-08.pdf http://eulerarchive.maa.org/hedi/HEDI-2005-08.pdf
-- "Observationes analyticae" by Leonhard Euler https://scholarlycommons.pacific.edu/euler-works/326/
-- https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1325&context=euler-works
+- Sandifer, How Euler Did It, A memorable example of false induction, eulerarchive.maa.org/hedi/HEDI-2005-08.pdf http://eulerarchive.maa.org/hedi/HEDI-2005-08.pdf
+- Leonhard Euler, Observationes analyticae, 1767, https://scholarlycommons.pacific.edu/euler-works/326/, PDF: https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1325&context=euler-works
 - W. H. Bussey, The Origin of Mathematical Induction, 1917, https://doi.org/10.2307/2974308, https://www.jstor.org/stable/2974308, https://www-jstor-org.proxy.library.emory.edu/stable/2974308?refreqid=excelsior%3A01a0ffa43490d0ad9c4f1199815d73ea&seq=1
 - De Morgan, https://www.maa.org/press/periodicals/convergence/mathematical-treasure-augustus-de-morgan-and-mathematical-induction
 - D. Francisci Maurolyci ... Opuscula mathematica - Google Books https://www.google.com/books/edition/D_Francisci_Maurolyci_Opuscula_mathemati/tVyzAjiXlSQC?hl=en&gbpv=1&bsq=quadratus
