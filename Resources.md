@@ -78,26 +78,36 @@
 - https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1325&context=euler-works
 - W. H. Bussey, The Origin of Mathematical Induction, 1917, https://doi.org/10.2307/2974308, https://www.jstor.org/stable/2974308, https://www-jstor-org.proxy.library.emory.edu/stable/2974308?refreqid=excelsior%3A01a0ffa43490d0ad9c4f1199815d73ea&seq=1
 - De Morgan, https://www.maa.org/press/periodicals/convergence/mathematical-treasure-augustus-de-morgan-and-mathematical-induction
+- D. Francisci Maurolyci ... Opuscula mathematica - Google Books https://www.google.com/books/edition/D_Francisci_Maurolyci_Opuscula_mathemati/tVyzAjiXlSQC?hl=en&gbpv=1&bsq=quadratus
+- Mathematical Treasures - Franciscus Maurolycus's Arithmeticorum libri duo | Mathematical Association of America https://www.maa.org/press/periodicals/convergence/mathematical-treasures-franciscus-maurolycuss-arithmeticorum-libri-duo
+- The Missing Problems of Gersonides—A Critical Edition, I - ScienceDirect https://www.sciencedirect.com/science/article/pii/S0315086000922808
+- Nachum Rabinovitch, *Rabbi Levi Ben Gershon and the Origins of Mathematical Induction,* 1970, https://www-jstor-org.proxy.library.emory.edu/stable/41133303?seq=1 ; PDF: https://www-jstor-org.proxy.library.emory.edu/stable/pdf/41133303.pdf?refreqid=excelsior%3A5954083055b553f61eff3197d2191cb5&ab_segments=&origin=
+- Simonson, http://web.stonehill.edu/compsci/Shai_papers/MathofLevi.pdf
+- S. Simonson, The Mathematics of Levi ben Gershon, https://www.maa.org/sites/default/files/images/upload_library/46/NCTM/mt2000-11-659a.pdf
+- Virtual Judaica - Sefer Ma’aseh Hoshev, R. Levi ben Gershom, Frankfort am Main 1909 https://www.virtualjudaica.com/Listing/Details/1388071/Sefer-Maaseh-Hoshev-R-Levi-ben-Gershom-Frankfort-am-Main-1909
+- Distributivity-like Results in the Medieval Traditions of Euclid's Elements - Google Books https://www.google.com/books/edition/Distributivity_like_Results_in_the_Medie/StNSEAAAQBAJ?hl=en&gbpv=1&dq=Gersonides+wrote+Maaseh+Hoshev&pg=PA66&printsec=frontcover
+- R. Rashed, The Development of Arabic Mathematics: Between Arithmetic and Algebra - Google Books https://www.google.com/books/edition/The_Development_of_Arabic_Mathematics_Be/Jb3nCAAAQBAJ?hl=en&gbpv=1&dq=Freudenthal+induction+-suspension&pg=PA62&printsec=frontcover
+- Mohammad Yadegari, The Use of Mathematical Induction by Abū Kāmil Shujā' Ibn Aslam (850-930), https://www-jstor-org.proxy.library.emory.edu/stable/pdf/230435.pdf?refreqid=excelsior%3Ab5675412c63a77550ec02ba604afa25b&ab_segments=&origin=
+- Mathematical induction - Wikipedia https://en.wikipedia.org/wiki/Mathematical_induction
 
 
 ### Binomial theorem
 
-- https://www.maa.org/sites/default/files/images/upload_library/46/NCTM/mt2000-11-659a.pdf
-- The Missing Problems of Gersonides—A Critical Edition, I - ScienceDirect https://www.sciencedirect.com/science/article/pii/S0315086000922808
-- N. Rabinovitch,*Rabbi Levi Ben Gershon and the Origins of Mathematical Induction,* 1970, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/41133303.pdf?refreqid=excelsior%3A5954083055b553f61eff3197d2191cb5&ab_segments=&origin=
-- Simonson, http://web.stonehill.edu/compsci/Shai_papers/MathofLevi.pdf
-- Virtual Judaica - Sefer Ma’aseh Hoshev, R. Levi ben Gershom, Frankfort am Main 1909 https://www.virtualjudaica.com/Listing/Details/1388071/Sefer-Maaseh-Hoshev-R-Levi-ben-Gershom-Frankfort-am-Main-1909
-- Distributivity-like Results in the Medieval Traditions of Euclid's Elements - Google Books https://www.google.com/books/edition/Distributivity_like_Results_in_the_Medie/StNSEAAAQBAJ?hl=en&gbpv=1&dq=Gersonides+wrote+Maaseh+Hoshev&pg=PA66&printsec=frontcover
 - Freudenthal induction -suspension - Google Search https://www.google.com/search?q=Freudenthal+induction+-suspension&client=safari&rls=en&sxsrf=APq-WBsGNOH3O4L1pNjwK12_qdF1I_JoNQ%3A1650731760470&ei=8CpkYuSkHNvTkPIPic2lwAE&ved=0ahUKEwjk3M6Bz6r3AhXbKUQIHYlmCRgQ4dUDCA0&uact=5&oq=Freudenthal+induction+-suspension&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjELADECc6BwgAEEcQsAM6BQghEKsCOgUIIRCgAUoECEEYAEoECEYYAFDZBFiaKWC5LmgDcAF4AIABiQGIAckGkgEEMTIuMpgBAKABAcgBCcABAQ&sclient=gws-wiz
+- Traité du triangle arithmétique , avec quelques autres petits traitez sur la mesme matière. Par Monsieur Pascal | Gallica https://gallica.bnf.fr/ark:/12148/btv1b86262012/f50.item.r=binom
 - https://ir.canterbury.ac.nz/bitstream/handle/10092/11738/12658469_Al-SamawalApril2015.pdf?sequence=1&isAllowed=y
 - https://devapeur.files.wordpress.com/2016/11/pascal-arithmetic-triangle.pdf
 - Treasures of the Library : Traité du triangle arithmetique : auec quelques autres petits traitez sur la mesme matière, https://cudl.lib.cam.ac.uk/view/PR-CCB-00013-00024/24
 - https://www.repository.cam.ac.uk/bitstream/handle/1810/244353/pascalintro.pdf?sequence=2&isAllowed=y
 - Jerry Lodder, Pascal's Triangle and Mathematical Induction, 2017, https://digitalcommons.ursinus.edu/cgi/viewcontent.cgi?article=1005&context=triumphs_number
 - #258 - Œuvres complètes de Blaise Pascal. v.3. - Full View | HathiTrust Digital Library https://babel.hathitrust.org/cgi/pt?id=hvd.hn3klq&view=1up&seq=258&skin=2021
-- Mathematical induction - Wikipedia https://en.wikipedia.org/wiki/Mathematical_induction
-
-
+- MohammadYadegari, The binomial theorem: A widespread concept in medieval Islamic mathematics, 1980 - ScienceDirect https://www.sciencedirect.com/science/article/pii/031508608090004X
+- Al-Karaji - Wikipedia https://en.wikipedia.org/wiki/Al-Karaji
+- Jia Xian - Wikipedia https://en.wikipedia.org/wiki/Jia_Xian
+- Jade Mirror of the Four Unknowns - Wikipedia https://en.wikipedia.org/wiki/Jade_Mirror_of_the_Four_Unknowns
+- J. Hoe, Jade Mirror of the Four Unknowns: Some Reflections, 1978 http://www.thebookshelf.auckland.ac.nz/docs/Maths/PDF/mathschron007-015.pdf
+- J.L. Coolidge, The Story of the Binomial Theorem, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/2305028.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
+- D.T. Whiteside, Henry Briggs: The Binomial Theorem Anticipated, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/3614760.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
 
 
 
