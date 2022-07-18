@@ -1,5 +1,9 @@
 # Resources
 
+### Series
+
+- E. Borel, Sur le changement de l'ordre des termes d'une série semi-convergente (1890), http://visualiseur.bnf.fr/CadresFenetre?O=NUMM-64010&I=2&M=tdm , http://sites.mathdoc.fr/cgi-bin/rbsm?idrevue=42
+
 ### Taylor series
 
 - https://en.wikipedia.org/wiki/Madhava_of_Sangamagrama
