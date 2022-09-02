@@ -135,7 +135,12 @@
 - Cauchy, Mémoire sur les développments des fonctions en séries périodique; et al., T.6(1827) - Mémoires de l'Académie (royale) des sciences de l'Institut (imperial) de France. - Biodiversity Heritage Library https://www.biodiversitylibrary.org/item/55214#page/11/mode/1up
 - P. Jourdain, 1913, https://www.journals.uchicago.edu/doi/pdf/10.1086/357810
 
+### History: Limits
 
+- Delta-epsilon, Weierstrass, 1861, unpub. lect. notes
+- Def. in terms of sequences, Heine, 1872, https://eudml.org/doc/148175
+- Felscher Bolzano, Cauchy, Epsilon, Delta, MAA Monthly 2000, https://www-jstor-org.proxy.library.emory.edu/stable/2695743#metadata_info_tab_contents
+- Dugac, Weierstrass's analysis, [https://www-jstor-org.proxy.library.emory.edu/stable/pdf/2695743.pdf?refreqid=excelsior%3Af583e8995267e6d85a87607bacf05757&ab_segments=&origin=&acceptTC=1](https://login.proxy.library.emory.edu/login?qurl=https://www.jstor.org/stable/41133363), https://www-jstor-org.proxy.library.emory.edu/stable/pdf/41133363.pdf?refreqid=excelsior%3Acc83bc4c24a873f207f0cc0044f210aa&ab_segments=&origin=
 
 
 ## Online libraries
