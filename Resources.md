@@ -113,6 +113,10 @@
 - D.T. Whiteside, Henry Briggs: The Binomial Theorem Anticipated, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/3614760.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
 
 
+### Fourier series
+
+- Uncertainty principle, https://twitter.com/gabrielpeyre/status/1588793811475599366?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email
+
 
 ## History/Primary sources
 
