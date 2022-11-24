@@ -52,6 +52,15 @@
 - *Quanta*, Roots of unity, https://www.quantamagazine.org/the-simple-math-behind-the-mighty-roots-of-unity-20210923/
 
 
+### Fourier analysis
+
+- Uncertainty principle, https://twitter.com/gabrielpeyre/status/1588793811475599366?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email
+
+### Logistic map
+
+- Denton et al., [A primer on chaos theory and its application to cardiology](https://www.sciencedirect.com/science/article/pii/000287039090258Y?ref=cra_js_challenge&fr=RR-1), *American Heart Journal* **120** (1990), [pdf](https://pdf.sciencedirectassets.com/272407/1-s2.0-S0002870300X06898/1-s2.0-000287039090258Y/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCBK%2B12S51lI5LwIZyFnfRJmmwVAOpRwuudAQNcEjmbqAIhAI7f65BrOsGM5Q1EW1NiLVp87pBLCZFeaDqMsd28dK6TKtUECNf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1Igy0NpxkKMXyBAnjMXIqqQTarP5ghJlp9VQ1ol4P0%2BHICMkZdHlUPGKtQls2AqvkO%2F33Hn31OlfpeqFbuMwybVYsFaDINc1if%2B%2Fe7yhof25uhRVgPhmRKNxOUiTY4sHiBhabfLMTyXXZQ4uo8C0rGgtpy%2FUeWNBvjMZJhaWIzG3L4CtaM5l3MMg00MS%2FWFY6CH3WAvKX7ikjMMURoLXPCKBpd7QQXoibU3lxrSmJBekZIekOFFbx0L%2FoLrkJZUsu5Ppm6rZceuZC224dLK78SjsJfGepKQ5QPIWyWF7BfTlUB0eYC0hgTwmgZeD3E%2BDT68OqmhNVO1zxduJDs%2FYdryznnCYIOaaxI3xiLZtQa%2FS1Cx%2FDoRX8cHc9YZfJr%2BvMpsBapWCp3jSYA0rUSFEwfXFzqP%2B3bu6t69ehVuEpBqGHhH9bnPc9cDuK0smIX9F8d2h3cEJ9qKaYPhMORw4yD3LYXa3pPEZUKHGpibgouoY3TrT8Z47vv9B0rs5esk9vfHyoQlDIoDVCqsUs%2BJr1%2FmrQYVshb7pfhAT7v%2BEeSNLh9trYt2iBbE2Z5a%2BV5882rA98OODzQS3KJgvW7XtyeEPIudw5YnTueAYYITWaMob7LmmAKuEjOlLw83KYioq5%2F52qERn1S8pI8mHF9RSmoUCIeteEJjDbAcCuMeS6pxV4ypUsceVAlFkx6Q1sztGy8pJJHQqu%2BpBs0B01Sa0ztzV7XCLnE4QmAHC3dz%2B%2B%2FJ3voZNbcy%2F%2FdJKFMLzi%2FZsGOqgBdBU65YGWb8IZ1ndRU6bJQmHUWUjPMjwkB%2BbjzZm2IhJkjcHKtMSTaWepKC%2F7MBLLJIzs3DdJpJt%2BwsB7a6svAxpeh3pLedz45gBGNwXBa%2BDSmo3H5JX%2BwvGIp8W1m8LHR0ixRQ5lvNxz276xWl4rLfYWtmt6AnNmUntQscB3dWgy1ZHnQTnwGO4oS7J8dJ6OCR2qxBEX2WXQT6ADMWZK0ujuxxp2GKX7&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221124T150727Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3VSG7F2Z%2F20221124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3ed73b8d2142985e301fc703329cdee1a21d2190172018b4042c7ebcc51fbceb&hash=037badd681902cb6a22444f77cb026308d075e972b4a3f9dc301a0787dbce01f&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=000287039090258Y&tid=spdf-a9f4fa09-3006-48c0-94f1-2aeb5ebf2f58&sid=47a2c4e780b7d042805bdb2-467fb1c9cd06gxrqa&type=client&ua=4d56025456040b5b0605&rr=76f30de9ef65ad03)
+- R. Shaw, The Dripping Faucet as a Model Chaotic System, 1984, https://ia800706.us.archive.org/1/items/ShawRobertDrippingFaucetAsAModelChaoticSystem1984_201811/ShawRobert-DrippingFaucetAsAModelChaoticSystem1984.pdf
+
 ### Misc
 
 - https://observablehq.com/@robinhouston/the-construction-of-a-parabola
@@ -113,11 +122,6 @@
 - D.T. Whiteside, Henry Briggs: The Binomial Theorem Anticipated, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/3614760.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
 
 
-### Fourier series
-
-- Uncertainty principle, https://twitter.com/gabrielpeyre/status/1588793811475599366?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email
-
-
 ## History/Primary sources
 
 - Riemann, Ueber die Darstellbarkeit..., https://www.maths.tcd.ie/pub/HistMath/People/Riemann/Trig/Trig.pdf (TeX'd)
@@ -143,6 +147,9 @@
 ### History: Limits
 
 - Delta-epsilon, Weierstrass, 1861, unpub. lect. notes
+- Runge's class notes from Weierstrass's lectures, Einleitung in die Theorie der analytischen Funktionen (1878), https://gdz.sub.uni-goettingen.de/id/DE-611-HS-3216959
+- Weierstrass, 1874 lecture notes, Einleitung in die Theorie der analytischen Funktionen,  https://catalog.hathitrust.org/Record/100577603. [Full view](https://babel.hathitrust.org/cgi/pt?id=uiuc.565673&view=1up&seq=5)
+- Weierstrass, Einleitung in die Theorie der analytischen Funktionen (1878), https://archive.org/details/einleitungindiet0000weie/page/n9/mode/2up
 - Def. in terms of sequences, Heine, 1872, https://eudml.org/doc/148175
 - Felscher Bolzano, Cauchy, Epsilon, Delta, MAA Monthly 2000, https://www-jstor-org.proxy.library.emory.edu/stable/2695743#metadata_info_tab_contents
 - Dugac, Weierstrass's analysis, [https://www-jstor-org.proxy.library.emory.edu/stable/pdf/2695743.pdf?refreqid=excelsior%3Af583e8995267e6d85a87607bacf05757&ab_segments=&origin=&acceptTC=1](https://login.proxy.library.emory.edu/login?qurl=https://www.jstor.org/stable/41133363), https://www-jstor-org.proxy.library.emory.edu/stable/pdf/41133363.pdf?refreqid=excelsior%3Acc83bc4c24a873f207f0cc0044f210aa&ab_segments=&origin=
