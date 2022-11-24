@@ -54,7 +54,7 @@
 - Staging:
   * Pre-calc: The iteration for special values of $r$, observing conv. to fixed point, period-doubling, chaos
   * Post derivative: Criterion for convergence.
-  * Post chain rule: fºf and period 2 etc.
+  * Post chain rule: $f \circ f$ and period 2 etc.
 
 
 ### Complex numbers and functions
