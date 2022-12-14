@@ -65,6 +65,10 @@
 ### Fourier analysis
 
 - Uncertainty principle, https://twitter.com/gabrielpeyre/status/1588793811475599366?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email
+- Convolution:
+  * https://www2.math.upenn.edu/~ccroke/chap5.pdf
+  * https://www.roe.ac.uk/japwww/teaching/fourier/fourier1415_part1.pdf
+  * https://www.roe.ac.uk/japwww/teaching/fourier/fourier1415_part2.pdf
 
 
 ### Misc
