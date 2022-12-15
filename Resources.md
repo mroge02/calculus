@@ -69,6 +69,12 @@
   * https://www2.math.upenn.edu/~ccroke/chap5.pdf
   * https://www.roe.ac.uk/japwww/teaching/fourier/fourier1415_part1.pdf
   * https://www.roe.ac.uk/japwww/teaching/fourier/fourier1415_part2.pdf
+- fourier transform exercises delta - Google Search
+https://www.google.com/search?q=fourier+transform+exercises+delta&client=safari&rls=en&sxsrf=ALiCzsZMnzFBBlhKt6qhgvM-AHyM3Fip4w%3A1669998577791&ei=8SeKY8T5L7DRwbkP39KK0Ak&ved=0ahUKEwiEtoTArdv7AhWwaDABHV-pApoQ4dUDCA8&uact=5&oq=fourier+transform+exercises+delta&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCCEQoAEyBQghEKABMgUIIRCgATIICCEQFhAeEB0yCAghEBYQHhAdMggIIRAWEB4QHTIICCEQFhAeEB0yCAghEBYQHhAdMggIIRAWEB4QHTIICCEQFhAeEB06CggAEEcQ1gQQsAM6BwgAELADEEM6BQgAEIAEOgYIABAWEB46BQgAEIYDSgQIQRgASgQIRhgAUIgKWL0WYI0faAFwAXgAgAF3iAGoBJIBAzUuMZgBAKABAcgBCsABAQ&sclient=gws-wiz-serp
+  * https://uwaterloo.ca/physics-of-information-lab/sites/ca.physics-of-information-lab/files/uploads/files/homework10.pdf
+  * http://www.math.chalmers.se/Math/Grundutb/GU/MMG710/H10/ex-long.pdf
+  * https://www.ldeo.columbia.edu/~richards/webpage_rev_Jan06/Ch3_FourTrans%26DeltaFns.pdf
+  * https://web.stanford.edu/class/ee102/lectures/fourtran
 
 
 ### Misc
