@@ -75,6 +75,7 @@ https://www.google.com/search?q=fourier+transform+exercises+delta&client=safari&
   * http://www.math.chalmers.se/Math/Grundutb/GU/MMG710/H10/ex-long.pdf
   * https://www.ldeo.columbia.edu/~richards/webpage_rev_Jan06/Ch3_FourTrans%26DeltaFns.pdf
   * https://web.stanford.edu/class/ee102/lectures/fourtran
+- Peyre, Discrete FT book, https://mathematical-tours.github.io/daft/
 
 
 ### Misc
