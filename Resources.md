@@ -27,6 +27,9 @@
 - Hi
 
 
+### Differentiation
+
+- R. Vakil, The Mathematics of Doodling, https://math.stanford.edu/~vakil/files/monthly116-129-vakil.pdf ($d/dr \mathop{\text{area}}(doodle) = perimeter(doodle)$)
 
 
 ### Integration
