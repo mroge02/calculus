@@ -79,6 +79,7 @@ https://www.google.com/search?q=fourier+transform+exercises+delta&client=safari&
   * https://www.ldeo.columbia.edu/~richards/webpage_rev_Jan06/Ch3_FourTrans%26DeltaFns.pdf
   * https://web.stanford.edu/class/ee102/lectures/fourtran
 - Peyre, Discrete FT book, https://mathematical-tours.github.io/daft/
+- Bracewell cheat sheet, https://ece-classes.usc.edu/ee591/handouts/bracewell.pdf
 
 
 ### Misc
@@ -92,6 +93,7 @@ https://www.google.com/search?q=fourier+transform+exercises+delta&client=safari&
 - [Peyre Fourier series approx. (Twitter)](https://twitter.com/gabrielpeyre/status/1498900914429693952?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), https://nbviewer.org/github/gpeyre/numerical-tours/blob/master/python/introduction_4_fourier_wavelets.ipynb
 - Mathematical model for fire spread in wildland fuels, https://www.fs.fed.us/rm/pubs_int/int_rp115.pdf
 - Calculus without Hocus Pocus, https://www.google.com/books/edition/Calculus_Without_Hocus_Pocus/YpifDwAAQBAJ?hl=en&gbpv=1
+- Ma Rosa Massa Esteve, Symbolic language in early modern mathematics: The Algebra of Pierre Hérigone, https://www.sciencedirect.com/science/article/pii/S031508600800030X?via%3Dihub
 
 
 ## Induction, infinite descent, well-ordering property
@@ -159,8 +161,8 @@ https://books.google.sn/books?id=2zILAAAAYAAJ&printsec=frontcover&hl=fr&source=g
 https://www.emis.de/classics/Riemann/index.html
 - Riemann, Grundlagen für eine allgemeine Theorie der Functionen einer veränderlichen ... - Google Books
 https://www.google.com/books/edition/Grundlagen_f%C3%BCr_eine_allgemeine_Theorie/Tn1SAAAAcAAJ?hl=en&gbpv=1
-- Google search, mémoires de l'académie des sciences 1826 Cauchy Tome 6 - Google Search
-https://www.google.com/search?client=safari&rls=en&q=m%C3%A9moires+de+l%27acad%C3%A9mie+des+sciences+1826+Cauchy+Tome+6&ie=UTF-8&oe=UTF-8
+- Google search, mémoires de l'académie des sciences 1826 Cauchy Tome 6 - Google Search, https://www.google.com/search?client=safari&rls=en&q=m%C3%A9moires+de+l%27acad%C3%A9mie+des+sciences+1826+Cauchy+Tome+6&ie=UTF-8&oe=UTF-8
+- Wallis, John, A treatise of algebra, both historical and practical, https://www.e-rara.ch/zut/content/structure/2507537 (last two pages of preface on the difficulty of printing and correcting, and the extra cost of, math books)
 
 
 
