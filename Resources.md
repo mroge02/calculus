@@ -137,45 +137,13 @@ https://www.google.com/search?q=fourier+transform+exercises+delta&client=safari&
 - https://www.repository.cam.ac.uk/bitstream/handle/1810/244353/pascalintro.pdf?sequence=2&isAllowed=y
 - Jerry Lodder, Pascal's Triangle and Mathematical Induction, 2017, https://digitalcommons.ursinus.edu/cgi/viewcontent.cgi?article=1005&context=triumphs_number
 - #258 - Œuvres complètes de Blaise Pascal. v.3. - Full View | HathiTrust Digital Library https://babel.hathitrust.org/cgi/pt?id=hvd.hn3klq&view=1up&seq=258&skin=2021
-- MohammadYadegari, The binomial theorem: A widespread concept in medieval Islamic mathematics, 1980 - ScienceDirect https://www.sciencedirect.com/science/article/pii/031508608090004X
+- Mohammad Yadegari, The binomial theorem: A widespread concept in medieval Islamic mathematics, 1980 - ScienceDirect https://www.sciencedirect.com/science/article/pii/031508608090004X
 - Al-Karaji - Wikipedia https://en.wikipedia.org/wiki/Al-Karaji
 - Jia Xian - Wikipedia https://en.wikipedia.org/wiki/Jia_Xian
 - Jade Mirror of the Four Unknowns - Wikipedia https://en.wikipedia.org/wiki/Jade_Mirror_of_the_Four_Unknowns
 - J. Hoe, Jade Mirror of the Four Unknowns: Some Reflections, 1978 http://www.thebookshelf.auckland.ac.nz/docs/Maths/PDF/mathschron007-015.pdf
 - J.L. Coolidge, The Story of the Binomial Theorem, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/2305028.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
 - D.T. Whiteside, Henry Briggs: The Binomial Theorem Anticipated, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/3614760.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
-
-- Traité du triangle arithmétique , avec quelques autres petits traitez sur la mesme matière. Par Monsieur Pascal | Gallica
-https://gallica.bnf.fr/ark:/12148/btv1b86262012/f8.vertical.r=binom
-- D. Francisci Maurolyci ... Opuscula mathematica - Google Books
-https://www.google.com/books/edition/D_Francisci_Maurolyci_Opuscula_mathemati/tVyzAjiXlSQC?hl=en&gbpv=1&bsq=quadratus
-- Mathematical Treasures - Franciscus Maurolycus's Arithmeticorum libri duo | Mathematical Association of America
-https://www.maa.org/press/periodicals/convergence/mathematical-treasures-franciscus-maurolycuss-arithmeticorum-libri-duo
-- Bussey, The Origin of Mathematical Induction, https://www.jstor.org/stable/pdf/2974308.pdf?refreqid=excelsior%3A03ca5cba9dfa8add2caa4d7d94a01bb7&ab_segments=&origin=
-https://www.jstor.org/stable/pdf/2974308.pdf?refreqid=excelsior%3A03ca5cba9dfa8add2caa4d7d94a01bb7&ab_segments=&origin=
-- Coolidge, The Story of the Binomial Theorem, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/2305028.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
-https://www-jstor-org.proxy.library.emory.edu/stable/pdf/2305028.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
-- Whiteside, Henry Briggs: The Binomial Theorem Anticipated, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/3614760.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
-https://www-jstor-org.proxy.library.emory.edu/stable/pdf/3614760.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
-- Jia Xian - Wikipedia
-https://en.wikipedia.org/wiki/Jia_Xian
-- Jade Mirror of the Four Unknowns - Wikipedia
-https://en.wikipedia.org/wiki/Jade_Mirror_of_the_Four_Unknowns
-- www.thebookshelf.auckland.ac.nz/docs/Maths/PDF/mathschron007-015.pdf
-http://www.thebookshelf.auckland.ac.nz/docs/Maths/PDF/mathschron007-015.pdf
-- Rabinovitch, Rabbi Levi Ben Gershon and the Origins of Mathematical Induction on JSTOR
-https://www-jstor-org.proxy.library.emory.edu/stable/41133303?seq=1#metadata_info_tab_contents
-- Rabinovitch, Rabbi Levi Ben Gershon and the Origins of Mathematical Induction, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/41133303.pdf?refreqid=excelsior%3A5954083055b553f61eff3197d2191cb5&ab_segments=&origin=
-https://www-jstor-org.proxy.library.emory.edu/stable/pdf/41133303.pdf?refreqid=excelsior%3A5954083055b553f61eff3197d2191cb5&ab_segments=&origin=
-- Yadegari, The Use of Mathematical Induction by Abū Kāmil Shujā' Ibn Aslam, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/230435.pdf?refreqid=excelsior%3Ab5675412c63a77550ec02ba604afa25b&ab_segments=&origin=
-https://www-jstor-org.proxy.library.emory.edu/stable/pdf/230435.pdf?refreqid=excelsior%3Ab5675412c63a77550ec02ba604afa25b&ab_segments=&origin=
-- Rashed, The Development of Arabic Mathematics: Between Arithmetic and Algebra - Google Books
-https://www.google.com/books/edition/The_Development_of_Arabic_Mathematics_Be/Jb3nCAAAQBAJ?hl=en&gbpv=1&dq=Freudenthal+induction+-suspension&pg=PA62&printsec=frontcover
-- Yadegari, The binomial theorem: A widespread concept in medieval Islamic mathematics - ScienceDirect
-https://www.sciencedirect.com/science/article/pii/031508608090004X
-- Al-Karaji - Wikipedia
-https://en.wikipedia.org/wiki/Al-Karaji
-
 
 
 ## History/Primary sources
@@ -204,8 +172,11 @@ https://hsm.stackexchange.com/questions/12979/varepsilon-delta-definition-of-lim
 https://www-jstor-org.proxy.library.emory.edu/stable/41133363?seq=1#metadata_info_tab_contents
 - Weierstrass, EUDML  |  Die Elemente der Functionenlehre.
 https://eudml.org/doc/148175
+- Nicole Oresme (Stanford Encyclopedia of Philosophy), https://plato.stanford.edu/entries/nicole-oresme/#TheMot ; Tractatus de configurationibus qualitatum et motuum - Google Search,https://www.google.com/search?q=Tractatus+de+configurationibus+qualitatum+et+motuum&client=safari&rls=en&sxsrf=AOaemvKmPbwwSTMMCdM9C2KTj9Lpv06ASA:1640220176982&ei=EMbDYbWiO_K3qtsPs_q62A8&start=20&sa=N&ved=2ahUKEwi16oGo2Pj0AhXym2oFHTO9Dvs4ChDw0wN6BAgBEEk&biw=1157&bih=908&dpr=2 ; Questiones super geometriam Euclidis - Google Search, https://www.google.com/search?client=safari&rls=en&q=Questiones+super+geometriam+Euclidis&ie=UTF-8&oe=UTF-8 ; https://en.wikipedia.org/wiki/Nicole_Oresme
+
 
 - Ma Rosa Massa Esteve, Symbolic language in early modern mathematics: The Algebra of Pierre Hérigone, https://www.sciencedirect.com/science/article/pii/S031508600800030X?via%3Dihub
+- Ossendrijver, Ancient Babylonian astronomers calculated Jupiter’s position from the area under a time-velocity graph, https://www-science-org.proxy.library.emory.edu/doi/10.1126/science.aad8085, https://www-science-org.proxy.library.emory.edu/doi/suppl/10.1126/science.aad8085/suppl_file/ossendrijver.sm.pdf
 
 
 ### Lagrange
