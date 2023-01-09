@@ -197,6 +197,13 @@ https://www.emis.de/classics/Riemann/index.html
 https://www.google.com/books/edition/Grundlagen_f%C3%BCr_eine_allgemeine_Theorie/Tn1SAAAAcAAJ?hl=en&gbpv=1
 - Google search, mémoires de l'académie des sciences 1826 Cauchy Tome 6 - Google Search, https://www.google.com/search?client=safari&rls=en&q=m%C3%A9moires+de+l%27acad%C3%A9mie+des+sciences+1826+Cauchy+Tome+6&ie=UTF-8&oe=UTF-8
 - Wallis, John, A treatise of algebra, both historical and practical, https://www.e-rara.ch/zut/content/structure/2507537 (last two pages of preface on the difficulty of printing and correcting, and the extra cost of, math books)
+- Local
+- mathematics - ($\varepsilon$, $\delta$)-definition of limit by Weierstrass - History of Science and Mathematics Stack Exchange
+https://hsm.stackexchange.com/questions/12979/varepsilon-delta-definition-of-limit-by-weierstrass
+- Dugac et al., Eléments d'analyse de Karl Weierstrass on JSTOR
+https://www-jstor-org.proxy.library.emory.edu/stable/41133363?seq=1#metadata_info_tab_contents
+- Weierstrass, EUDML  |  Die Elemente der Functionenlehre.
+https://eudml.org/doc/148175
 
 - Ma Rosa Massa Esteve, Symbolic language in early modern mathematics: The Algebra of Pierre Hérigone, https://www.sciencedirect.com/science/article/pii/S031508600800030X?via%3Dihub
 
