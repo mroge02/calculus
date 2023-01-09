@@ -93,7 +93,9 @@ https://www.google.com/search?q=fourier+transform+exercises+delta&client=safari&
 - [Peyre Fourier series approx. (Twitter)](https://twitter.com/gabrielpeyre/status/1498900914429693952?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), https://nbviewer.org/github/gpeyre/numerical-tours/blob/master/python/introduction_4_fourier_wavelets.ipynb
 - Mathematical model for fire spread in wildland fuels, https://www.fs.fed.us/rm/pubs_int/int_rp115.pdf
 - Calculus without Hocus Pocus, https://www.google.com/books/edition/Calculus_Without_Hocus_Pocus/YpifDwAAQBAJ?hl=en&gbpv=1
-- Ma Rosa Massa Esteve, Symbolic language in early modern mathematics: The Algebra of Pierre Hérigone, https://www.sciencedirect.com/science/article/pii/S031508600800030X?via%3Dihub
+- 12 Free Beautiful Calculus Lectures from 3Blue1Brown, https://abakcus.com/12-free-beautiful-calculus-lectures-from-3blue1brown/
+- https://abakcus.com/25-beautiful-math-documentaries-to-love-math/
+- https://abakcus.com/16-interesting-math-podcasts-for-curious-minds/
 
 
 ## Induction, infinite descent, well-ordering property
@@ -143,6 +145,38 @@ https://www.google.com/search?q=fourier+transform+exercises+delta&client=safari&
 - J.L. Coolidge, The Story of the Binomial Theorem, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/2305028.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
 - D.T. Whiteside, Henry Briggs: The Binomial Theorem Anticipated, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/3614760.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
 
+- Traité du triangle arithmétique , avec quelques autres petits traitez sur la mesme matière. Par Monsieur Pascal | Gallica
+https://gallica.bnf.fr/ark:/12148/btv1b86262012/f8.vertical.r=binom
+- D. Francisci Maurolyci ... Opuscula mathematica - Google Books
+https://www.google.com/books/edition/D_Francisci_Maurolyci_Opuscula_mathemati/tVyzAjiXlSQC?hl=en&gbpv=1&bsq=quadratus
+- Mathematical Treasures - Franciscus Maurolycus's Arithmeticorum libri duo | Mathematical Association of America
+https://www.maa.org/press/periodicals/convergence/mathematical-treasures-franciscus-maurolycuss-arithmeticorum-libri-duo
+- Bussey, The Origin of Mathematical Induction, https://www.jstor.org/stable/pdf/2974308.pdf?refreqid=excelsior%3A03ca5cba9dfa8add2caa4d7d94a01bb7&ab_segments=&origin=
+https://www.jstor.org/stable/pdf/2974308.pdf?refreqid=excelsior%3A03ca5cba9dfa8add2caa4d7d94a01bb7&ab_segments=&origin=
+- Coolidge, The Story of the Binomial Theorem, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/2305028.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
+https://www-jstor-org.proxy.library.emory.edu/stable/pdf/2305028.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
+- Whiteside, Henry Briggs: The Binomial Theorem Anticipated, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/3614760.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
+https://www-jstor-org.proxy.library.emory.edu/stable/pdf/3614760.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
+- Jia Xian - Wikipedia
+https://en.wikipedia.org/wiki/Jia_Xian
+- Jade Mirror of the Four Unknowns - Wikipedia
+https://en.wikipedia.org/wiki/Jade_Mirror_of_the_Four_Unknowns
+- www.thebookshelf.auckland.ac.nz/docs/Maths/PDF/mathschron007-015.pdf
+http://www.thebookshelf.auckland.ac.nz/docs/Maths/PDF/mathschron007-015.pdf
+- Rabinovitch, Rabbi Levi Ben Gershon and the Origins of Mathematical Induction on JSTOR
+https://www-jstor-org.proxy.library.emory.edu/stable/41133303?seq=1#metadata_info_tab_contents
+- Rabinovitch, Rabbi Levi Ben Gershon and the Origins of Mathematical Induction, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/41133303.pdf?refreqid=excelsior%3A5954083055b553f61eff3197d2191cb5&ab_segments=&origin=
+https://www-jstor-org.proxy.library.emory.edu/stable/pdf/41133303.pdf?refreqid=excelsior%3A5954083055b553f61eff3197d2191cb5&ab_segments=&origin=
+- Yadegari, The Use of Mathematical Induction by Abū Kāmil Shujā' Ibn Aslam, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/230435.pdf?refreqid=excelsior%3Ab5675412c63a77550ec02ba604afa25b&ab_segments=&origin=
+https://www-jstor-org.proxy.library.emory.edu/stable/pdf/230435.pdf?refreqid=excelsior%3Ab5675412c63a77550ec02ba604afa25b&ab_segments=&origin=
+- Rashed, The Development of Arabic Mathematics: Between Arithmetic and Algebra - Google Books
+https://www.google.com/books/edition/The_Development_of_Arabic_Mathematics_Be/Jb3nCAAAQBAJ?hl=en&gbpv=1&dq=Freudenthal+induction+-suspension&pg=PA62&printsec=frontcover
+- Yadegari, The binomial theorem: A widespread concept in medieval Islamic mathematics - ScienceDirect
+https://www.sciencedirect.com/science/article/pii/031508608090004X
+- Al-Karaji - Wikipedia
+https://en.wikipedia.org/wiki/Al-Karaji
+
+
 
 ## History/Primary sources
 
@@ -163,6 +197,20 @@ https://www.emis.de/classics/Riemann/index.html
 https://www.google.com/books/edition/Grundlagen_f%C3%BCr_eine_allgemeine_Theorie/Tn1SAAAAcAAJ?hl=en&gbpv=1
 - Google search, mémoires de l'académie des sciences 1826 Cauchy Tome 6 - Google Search, https://www.google.com/search?client=safari&rls=en&q=m%C3%A9moires+de+l%27acad%C3%A9mie+des+sciences+1826+Cauchy+Tome+6&ie=UTF-8&oe=UTF-8
 - Wallis, John, A treatise of algebra, both historical and practical, https://www.e-rara.ch/zut/content/structure/2507537 (last two pages of preface on the difficulty of printing and correcting, and the extra cost of, math books)
+
+- Ma Rosa Massa Esteve, Symbolic language in early modern mathematics: The Algebra of Pierre Hérigone, https://www.sciencedirect.com/science/article/pii/S031508600800030X?via%3Dihub
+
+
+### Lagrange
+
+- Lagrange Miscellanea Taurinensia Vol. 1 - Google Search
+https://www.google.com/search?client=safari&rls=en&q=Lagrange+Miscellanea+Taurinensia+Vol.+1&ie=UTF-8&oe=UTF-8
+- Oeuvres de Lagrange, v1 : Lagrange, Joseph Louis, comte, 1736-1813 : Free Download, Borrow, and Streaming : Internet Archive
+https://archive.org/details/oeuvresdelagrang01lagr/page/1/mode/1up
+- Oeuvres de Lagrange, v8 : Lagrange, Joseph Louis, comte, 1736-1813 : Free Download, Borrow, and Streaming : Internet Archive
+https://archive.org/details/oeuvresdelagrang08lagr/page/36/mode/2up
+- Oeuvres de Lagrange, v3 : Lagrange, Joseph Louis, comte, 1736-1813 : Free Download, Borrow, and Streaming : Internet Archive
+https://archive.org/details/oeuvresdelagrang03lagr/page/3/mode/1up
 
 
 
