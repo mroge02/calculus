@@ -131,6 +131,12 @@ https://www.google.com/search?q=fourier+transform+exercises+delta&client=safari&
 
 - Freudenthal induction -suspension - Google Search https://www.google.com/search?q=Freudenthal+induction+-suspension&client=safari&rls=en&sxsrf=APq-WBsGNOH3O4L1pNjwK12_qdF1I_JoNQ%3A1650731760470&ei=8CpkYuSkHNvTkPIPic2lwAE&ved=0ahUKEwjk3M6Bz6r3AhXbKUQIHYlmCRgQ4dUDCA0&uact=5&oq=Freudenthal+induction+-suspension&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjELADECc6BwgAEEcQsAM6BQghEKsCOgUIIRCgAUoECEEYAEoECEYYAFDZBFiaKWC5LmgDcAF4AIABiQGIAckGkgEEMTIuMpgBAKABAcgBCcABAQ&sclient=gws-wiz
 - Traité du triangle arithmétique , avec quelques autres petits traitez sur la mesme matière. Par Monsieur Pascal | Gallica https://gallica.bnf.fr/ark:/12148/btv1b86262012/f50.item.r=binom
+    - https://devapeur.files.wordpress.com/2016/11/pascal-arithmetic-triangle.pdf
+    - Treasures of the Library : Traité du triangle arithmetique : auec quelques autres petits traitez sur la mesme matière
+https://cudl.lib.cam.ac.uk/view/PR-CCB-00013-00024/24
+    - https://www.repository.cam.ac.uk/bitstream/handle/1810/244353/pascalintro.pdf?sequence=2&isAllowed=y
+    - https://digitalcommons.ursinus.edu/cgi/viewcontent.cgi?article=1005&context=triumphs_number
+    - #258 - Œuvres complètes de Blaise Pascal. v.3. - Full View | HathiTrust Digital Library, https://babel.hathitrust.org/cgi/pt?id=hvd.hn3klq&view=1up&seq=258&skin=2021
 - https://ir.canterbury.ac.nz/bitstream/handle/10092/11738/12658469_Al-SamawalApril2015.pdf?sequence=1&isAllowed=y
 - https://devapeur.files.wordpress.com/2016/11/pascal-arithmetic-triangle.pdf
 - Treasures of the Library : Traité du triangle arithmetique : auec quelques autres petits traitez sur la mesme matière, https://cudl.lib.cam.ac.uk/view/PR-CCB-00013-00024/24
