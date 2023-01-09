@@ -149,6 +149,20 @@ https://www.google.com/search?q=fourier+transform+exercises+delta&client=safari&
 - Angesi, [Tomo I](https://www.google.com/books/edition/Instituzioni_analitiche/L0pbAAAAcAAJ?hl=en), [Tomo II, complete figs.](https://www.google.com/books/edition/_/WqwuBdTP9RkC?hl=en&gbpv=1), [Tomo II, illegible figs.](https://www.google.com/books/edition/Instituzioni_analitiche_ad_uso_della_gio/fqp3BwruNk0C?hl=en&gbpv=1), [Tomo II (legible figs., half cut off though](https://www.google.com/books/edition/_/BfIvsLcA8uQC?hl=en&gbpv=1), [Tomo II, sometimes more than half the figs.](https://www.google.com/books/edition/_/w81ibgr07RMC?hl=en&gbpv=1) (1000 pages in all!)
 - Newton, *Principia,* https://www.google.com/books/edition/Newton_s_Principia/N-hHAQAAMAAJ?q=&gbpv=1&bsq=sphaerical
 - Bolzano, *Rein analytischer Beweis...*, transl. by S.B Russ, https://www.sciencedirect.com/science/article/pii/0315086080900361
+- "Foundations for a general theory of functions of a complex variable" by Bernhard Riemann
+https://www.exhibit.xavier.edu/oresme_2015Jan/2/
+- Dirichlet, "Ueber di Darstellung ganz willkührlicher Funktionen durch Sinus- und Cosinusreihe," ETH-Bibliothek / Allgemeine Physik,... [168
+https://www.e-rara.ch/zut/content/zoom/15024601
+- Dirichlet, Die darstellung ganz willkürlicher functionen durch sinus- und cosinusreihen - Peter Gustav Lejeune Dirichlet, Philipp Ludwig Seidel - Google Livres
+https://books.google.sn/books?id=2zILAAAAYAAJ&printsec=frontcover&hl=fr&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+- The Mathematical Papers of Georg Friedrich Bernhard Riemann (1826-1866)
+https://www.emis.de/classics/Riemann/index.html
+- Riemann, Grundlagen für eine allgemeine Theorie der Functionen einer veränderlichen ... - Google Books
+https://www.google.com/books/edition/Grundlagen_f%C3%BCr_eine_allgemeine_Theorie/Tn1SAAAAcAAJ?hl=en&gbpv=1
+- Google search, mémoires de l'académie des sciences 1826 Cauchy Tome 6 - Google Search
+https://www.google.com/search?client=safari&rls=en&q=m%C3%A9moires+de+l%27acad%C3%A9mie+des+sciences+1826+Cauchy+Tome+6&ie=UTF-8&oe=UTF-8
+
+
 
 ### Cauchy
 
