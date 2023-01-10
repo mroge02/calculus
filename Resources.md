@@ -48,6 +48,7 @@
 - Deep Symbolic Regression for Recurrent Sequences, http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com
   * Paper: https://arxiv.org/pdf/2201.04600.pdf
 - Superpermutations: https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/, https://www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/
+- Fibonacci and Lucas identities, https://r-knott.surrey.ac.uk/Fibonacci/fibFormulae.html
 
 ### Logistic map
 
