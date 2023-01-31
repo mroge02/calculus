@@ -36,6 +36,7 @@
 
 - https://www.johndcook.com/blog/2009/10/25/how-to-differentiate-a-non-differentiable-function/
 - Riemann, Ueber die Darstellbarkeit..., https://www.maths.tcd.ie/pub/HistMath/People/Riemann/Trig/Trig.pdf (TeX'd)
+- Alessandra King, [Finding Pi with Archimedes's Exhaustion Method](https://www-jstor-org.proxy.library.emory.edu/stable/10.5951/mathteacmiddscho.19.2.0116?seq=1)
 
 
 ### Examples- 
