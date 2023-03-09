@@ -99,6 +99,7 @@ https://www.google.com/search?q=fourier+transform+exercises+delta&client=safari&
 - 12 Free Beautiful Calculus Lectures from 3Blue1Brown, https://abakcus.com/12-free-beautiful-calculus-lectures-from-3blue1brown/
 - https://abakcus.com/25-beautiful-math-documentaries-to-love-math/
 - https://abakcus.com/16-interesting-math-podcasts-for-curious-minds/
+- Compactness: History, https://arxiv.org/pdf/1006.4131.pdf; T.Tao, https://www.math.ucla.edu/~tao/preprints/compactness.pdf
 
 
 ## Induction, infinite descent, well-ordering property
