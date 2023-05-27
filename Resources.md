@@ -66,6 +66,7 @@
 
 - Corless, Gonnet, Hare, Jeffrey, Lambert's W Function in Maple, https://www.researchgate.net/publication/2457313_Lambert%27s_W_Function_in_Maple?enrichId=rgreq-d248507edad56395ece2341d0a3cbf8a-XXX&enrichSource=Y292ZXJQYWdlOzI0NTczMTM7QVM6OTc1NDAyOTY5Mzc0ODhAMTQwMDI2NjgyODA1MQ%3D%3D&el=1_x_2&_esc=publicationCoverPdf
 - Corless, Gonnet, Hare, Jeffrey, Knuth, On the Lambert W function, Advances in Computational Mathematics volume 5, pages 329–359 (1996); https://link-springer-com.proxy.library.emory.edu/article/10.1007/BF02124750
+- blackpenredpen video (48m), https://www.youtube.com/watch?v=Qb7JITsbyKs
 
 ### Complex numbers and functions
 
