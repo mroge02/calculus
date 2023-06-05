@@ -57,6 +57,7 @@
 - R. May, [Simple mathematical models with very complicated dynamics](https://www.nature.com/articles/261459a0), Nature volume 261, pages 459–467 (1976)
 - Denton et al., [A primer on chaos theory and its application to cardiology](https://www.sciencedirect.com/science/article/pii/000287039090258Y?ref=cra_js_challenge&fr=RR-1), *American Heart Journal* **120** (1990), [pdf](https://www.sciencedirect.com/science/article/pii/000287039090258Y?ref=pdf_download&fr=RR-2&rr=76f3fc5d9af0b175)
 - R. Shaw, The Dripping Faucet as a Model Chaotic System, 1984, https://ia800706.us.archive.org/1/items/ShawRobertDrippingFaucetAsAModelChaoticSystem1984_201811/ShawRobert-DrippingFaucetAsAModelChaoticSystem1984.pdf
+- Hidden Chaos Found to Lurk in Ecosystems, https://www.quantamagazine.org/hidden-chaos-found-to-lurk-in-ecosystems-20220727
 - Staging:
   * Pre-calc: The iteration for special values of $r$, observing conv. to fixed point, period-doubling, chaos
   * Post derivative: Criterion for convergence.
