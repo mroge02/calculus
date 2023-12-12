@@ -185,6 +185,18 @@ https://cudl.lib.cam.ac.uk/view/PR-CCB-00013-00024/24
 
 - Calculus I, List of Honors Projets, https://math.iupui.edu/~jwatt/16500/honors/math163hp00.html
 - Boyd, The Blasius Function: Computations Before Computers, the Value of Tricks, Undergraduate Projects, and Open Research Problems, https://epubs-siam-org.proxy.library.emory.edu/doi/epdf/10.1137/070681594
+- Solar wind:
+  + Cranmer, https://pubs.aip.org/aapt/ajp/article-abstract/72/11/1397/1056037/New-views-of-the-solar-wind-with-the-Lambert-W?redirectedFrom=fulltext
+  + Parker, Dynamics of the Interplanetary Gas and Magnetic Fields, https://articles.adsabs.harvard.edu//full/1958ApJ...128..664P/0000673.000.html 1958
+  + Parker Solar Probe Stories, https://science.nasa.gov/mission/parker-solar-probe/
+  + Kasper *et al.*, Parker Solar Probe Enters the Magnetically Dominated Solar Corona, https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.255101
+  + NASA Missions Find ‘Jetlets’ Could Power the Solar Wind, https://www.nasa.gov/missions/goes/nasa-missions-find-jetlets-could-power-the-solar-wind/
+  + NASA Enters the Solar Atmosphere for the First Time, Bringing New Discoveries, https://www.nasa.gov/solar-system/nasa-enters-the-solar-atmosphere-for-the-first-time-bringing-new-discoveries/
+  + Alfvén surface, https://en.wikipedia.org/wiki/Alfvén_surface#:~:text=The%20Alfvén%20surface%20is%20the,Alfvén%20point%2C%20or%20Alfvén%20radius.
+  + Stellar Winds, https://www.mso.anu.edu.au/~geoff/AGD/Winds.pdf
+  + JHelioviewer, https://www.aanda.org/articles/aa/full_html/2017/10/aa30893-17/aa30893-17.html#S29
+  + SOHO Celebrates 20 Years of Space-based Science, https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=12052
+- 
 
 ## History/Primary sources
 
