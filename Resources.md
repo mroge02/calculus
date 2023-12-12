@@ -249,3 +249,9 @@ https://archive.org/details/oeuvresdelagrang03lagr/page/3/mode/1up
 - Hathi Trust, https://babel.hathitrust.org/
 - HAL Open Science, https://hal.archives-ouvertes.fr/
 - Gutenberg, https://gutenberg.org
+
+## Teaching
+
+- Task Design in Mathematics Education, 2013. https://hal.science/hal-00834054v3/document
+- Dobbs, David E., Iteration, Not Induction, IJ Math Ed in Sci * Tech 2009. https://eric.ed.gov/?id=EJ858118
+- 
