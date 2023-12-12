@@ -278,3 +278,12 @@ https://archive.org/details/oeuvresdelagrang03lagr/page/3/mode/1up
 - Task Design in Mathematics Education, 2013. https://hal.science/hal-00834054v3/document
 - Dobbs, David E., Iteration, Not Induction, IJ Math Ed in Sci * Tech 2009. https://eric.ed.gov/?id=EJ858118
 - Working with AI, https://www-chronicle-com.proxy.library.emory.edu/newsletter/teaching/2023-11-30?utm_source=Iterable&utm_medium=email&utm_campaign=campaign_8446455_nl_Academe-Today_date_20231204&cid=at
+- Chapter 1 - Insights from Cognitive Science on Mathematical Learning, https://www.sciencedirect.com/science/article/abs/pii/B9780128050866000011
+- Concepts and Cognitive Science, https://philpapers.org/archive/LAUCAC-3.pdf
+- Your Brain on Maths: Educational Neurononsense Revisited, https://www.discovermagazine.com/mind/your-brain-on-maths-educational-neurononsense-revisited
+- Mathematical mindsets: unleashing students’ potential through creative math, inspiring messages and innovative teaching, https://www-tandfonline-com.proxy.library.emory.edu/doi/full/10.1080/14794802.2016.1237374?journalCode=rrme20
+- Gropuwork, https://complexinstruction-stanford-edu.proxy.library.emory.edu/about
+- Calculus Is the Peak of High School Math. Maybe It’s Time to Change That, https://www.edweek.org/teaching-learning/calculus-is-the-peak-of-high-school-math-maybe-its-time-to-change-that/2018/05
+- The Divider (Jo Boaler), https://www-chronicle-com.proxy.library.emory.edu/article/the-divider?utm_source=Iterable&utm_medium=email&utm_campaign=campaign_6452923_nl_Academe-Today_date_20230323&cid=at&source=ams&sourceid=
+
+
