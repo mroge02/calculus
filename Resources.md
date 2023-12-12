@@ -163,6 +163,10 @@ https://cudl.lib.cam.ac.uk/view/PR-CCB-00013-00024/24
 - D.T. Whiteside, Henry Briggs: The Binomial Theorem Anticipated, https://www-jstor-org.proxy.library.emory.edu/stable/pdf/3614760.pdf?refreqid=excelsior%3A8307bc3c28350b76bd981f2065209cb8&ab_segments=&origin=
 
 
+## Projects
+
+- Calculus I, List of Honors Projets, https://math.iupui.edu/~jwatt/16500/honors/math163hp00.html
+
 ## History/Primary sources
 
 - Riemann, Ueber die Darstellbarkeit..., https://www.maths.tcd.ie/pub/HistMath/People/Riemann/Trig/Trig.pdf (TeX'd)
@@ -208,7 +212,6 @@ https://archive.org/details/oeuvresdelagrang08lagr/page/36/mode/2up
 https://archive.org/details/oeuvresdelagrang03lagr/page/3/mode/1up
 
 
-
 ### Cauchy
 
 - Cauchy, Ouevres, http://portail.mathdoc.fr/cgi-bin/oetoc?id=OE_CAUCHY_1_8
@@ -250,8 +253,9 @@ https://archive.org/details/oeuvresdelagrang03lagr/page/3/mode/1up
 - HAL Open Science, https://hal.archives-ouvertes.fr/
 - Gutenberg, https://gutenberg.org
 
+
 ## Teaching
 
 - Task Design in Mathematics Education, 2013. https://hal.science/hal-00834054v3/document
 - Dobbs, David E., Iteration, Not Induction, IJ Math Ed in Sci * Tech 2009. https://eric.ed.gov/?id=EJ858118
-- 
+- Working with AI, https://www-chronicle-com.proxy.library.emory.edu/newsletter/teaching/2023-11-30?utm_source=Iterable&utm_medium=email&utm_campaign=campaign_8446455_nl_Academe-Today_date_20231204&cid=at
