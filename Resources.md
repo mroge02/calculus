@@ -65,9 +65,27 @@
 
 ### Lambert W
 
-- Corless, Gonnet, Hare, Jeffrey, Lambert's W Function in Maple, https://www.researchgate.net/publication/2457313_Lambert%27s_W_Function_in_Maple?enrichId=rgreq-d248507edad56395ece2341d0a3cbf8a-XXX&enrichSource=Y292ZXJQYWdlOzI0NTczMTM7QVM6OTc1NDAyOTY5Mzc0ODhAMTQwMDI2NjgyODA1MQ%3D%3D&el=1_x_2&_esc=publicationCoverPdf
-- Corless, Gonnet, Hare, Jeffrey, Knuth, On the Lambert W function, Advances in Computational Mathematics volume 5, pages 329–359 (1996); https://link-springer-com.proxy.library.emory.edu/article/10.1007/BF02124750
+- Corless, Gonnet, Hare, Jeffrey, Lambert's W Function in Maple, https://www.researchgate.net/publication/2457313_Lambert%27s_W_Function_in_Maple?enrichId=rgreq-d248507edad56395ece2341d0a3cbf8a-XXX&enrichSource=Y292ZXJQYWdlOzI0NTczMTM7QVM6OTc1NDAyOTY5Mzc0ODhAMTQwMDI2NjgyODA1MQ%3D%3D&el=1_x_2&_esc=publicationCoverPdf , file:///Users/mike/Downloads/LambertsWFunctionInMaple.pdf
+- Corless, Gonnet, Hare, Jeffrey, Knuth, On the Lambert W function, Advances in Computational Mathematics volume 5, pages 329–359 (1996); https://link-springer-com.proxy.library.emory.edu/article/10.1007/BF02124750 , file:///Users/mike/Downloads/W.pdf
 - blackpenredpen video: intro https://www.youtube.com/watch?v=Qb7JITsbyKs (48m), solving eqns https://www.youtube.com/watch?v=elkUO6eRMvM (40m) { W(W(x))=1, W(x)=ln(2x), W(e^x)=(W(e))^x, 1+W((e^2-1)x)=e^2, W(9x-7)e^W(9x-7)=-1/e, W(e^(e^2+1+x^x))=x^x, W(e^(x+1))=x+1, W(x+1)=(x+1)^2, x^x^x=a }
+- https://mathworld.wolfram.com/LambertW-Function.html
+- The Lambert W Function Approach to Time Delay Systems, https://www.sciencedirect.com/science/article/pii/S147466701534708X
+- Borwein & Crandall, Closed Forms: What They Are and Why We Care, https://www.ams.org/journals/notices/201301/rnoti-p50.pdf
+- Moore, An Elementary Treatment of the Lambert-W Relation, https://www-tandfonline-com.proxy.library.emory.edu/doi/full/10.1080/07468342.2023.2188040
+- https://mathscinet-ams-org.proxy.library.emory.edu/mathscinet/search/publications.html?pg4=AUCN&s4=&co4=AND&pg5=PC&s5=&co5=AND&pg6=CC&s6=&co6=AND&pg7=ALLF&s7=Lambert+W&co7=AND&dr=all&yrop=eq&arg3=&yearRangeFirst=&yearRangeSecond=&pg8=ET&s8=All&review_format=html&Submit=Search
+- https://mathscinet-ams-org.proxy.library.emory.edu/mathscinet/publications-search?query=ti%3A%22Lambert%20W%22%20y%3A%5B2023%5D&page=1&size=20&sort=newest&facets=
+- https://scholar.google.com/scholar?start=50&q=%22Lambert+W%22&hl=en&scisbd=1&as_sdt=0,11
+- https://scholar.google.com/scholar?hl=en&as_sdt=80007&as_ylo=2019&as_vis=1&q=%22Lambert+W+function%22+patent+uspto&btnG= (patents)
+- The calculation of exchange forces: General results and specific models, https://www.researchgate.net/profile/Tony-Scott-2/publication/234858519_The_calculation_of_exchange_forces_General_results_and_specific_models/links/55aefb1c08aee0799220ed2f/The-calculation-of-exchange-forces-General-results-and-specific-models.pdf
+- New analytical results in solid state physics using the Lambert W function, https://iopscience.iop.org/article/10.1088/1361-6404/ad009d/pdf
+- Cranmer, New views of the solar wind with the Lambert W function, *AJP* 2004, https://pubs-aip-org.proxy.library.emory.edu/aapt/ajp/article/72/11/1397/1056037/New-views-of-the-solar-wind-with-the-Lambert-W
+- Solar Wind, http://sun.stanford.edu/~sasha/PHYS780/SOLAR_PHYSICS/L22/Lecture_22_PHYS780.pdf
+- Performance Computation of Sustainable Energy System Using PVLIB-Python, https://ieeexplore.ieee.org/abstract/document/10245622
+- Phase Behavior of Ternary Polymer Mixtures in a Common Solvent, https://pubs.acs.org/doi/full/10.1021/acsomega.3c02604
+- Schröder Based Inverse Function Approximation, file:///Users/mike/Downloads/F-00-Paper-Schroder-InverseFuncApprox-Preprint-July18-2023.pdf
+- Solar Cells, Lambert W and the LogWright Functions, https://arxiv.org/pdf/2307.08099.pdf
+- https://www.desmos.com/calculator/imz0dfzd65
+
 
 ### Complex numbers and functions
 
@@ -166,6 +184,7 @@ https://cudl.lib.cam.ac.uk/view/PR-CCB-00013-00024/24
 ## Projects
 
 - Calculus I, List of Honors Projets, https://math.iupui.edu/~jwatt/16500/honors/math163hp00.html
+- Boyd, The Blasius Function: Computations Before Computers, the Value of Tricks, Undergraduate Projects, and Open Research Problems, https://epubs-siam-org.proxy.library.emory.edu/doi/epdf/10.1137/070681594
 
 ## History/Primary sources
 
