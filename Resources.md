@@ -72,10 +72,10 @@
 - The Lambert W Function Approach to Time Delay Systems, https://www.sciencedirect.com/science/article/pii/S147466701534708X
 - Borwein & Crandall, Closed Forms: What They Are and Why We Care, https://www.ams.org/journals/notices/201301/rnoti-p50.pdf
 - Moore, An Elementary Treatment of the Lambert-W Relation, https://www-tandfonline-com.proxy.library.emory.edu/doi/full/10.1080/07468342.2023.2188040
-- https://mathscinet-ams-org.proxy.library.emory.edu/mathscinet/search/publications.html?pg4=AUCN&s4=&co4=AND&pg5=PC&s5=&co5=AND&pg6=CC&s6=&co6=AND&pg7=ALLF&s7=Lambert+W&co7=AND&dr=all&yrop=eq&arg3=&yearRangeFirst=&yearRangeSecond=&pg8=ET&s8=All&review_format=html&Submit=Search
-- https://mathscinet-ams-org.proxy.library.emory.edu/mathscinet/publications-search?query=ti%3A%22Lambert%20W%22%20y%3A%5B2023%5D&page=1&size=20&sort=newest&facets=
-- https://scholar.google.com/scholar?start=50&q=%22Lambert+W%22&hl=en&scisbd=1&as_sdt=0,11
-- https://scholar.google.com/scholar?hl=en&as_sdt=80007&as_ylo=2019&as_vis=1&q=%22Lambert+W+function%22+patent+uspto&btnG= (patents)
+- MathSciNet 'Lambert W': https://mathscinet-ams-org.proxy.library.emory.edu/mathscinet/search/publications.html?pg4=AUCN&s4=&co4=AND&pg5=PC&s5=&co5=AND&pg6=CC&s6=&co6=AND&pg7=ALLF&s7=Lambert+W&co7=AND&dr=all&yrop=eq&arg3=&yearRangeFirst=&yearRangeSecond=&pg8=ET&s8=All&review_format=html&Submit=Search
+- MathSciNEt 'ti:"Lambert W" y:[2023]': https://mathscinet-ams-org.proxy.library.emory.edu/mathscinet/publications-search?query=ti%3A%22Lambert%20W%22%20y%3A%5B2023%5D&page=1&size=20&sort=newest&facets=
+- Google Scholar "Lambert W": https://scholar.google.com/scholar?start=50&q=%22Lambert+W%22&hl=en&scisbd=1&as_sdt=0,11
+- Google Scholar '"Lambert W function" patent uspto': https://scholar.google.com/scholar?hl=en&as_sdt=80007&as_ylo=2019&as_vis=1&q=%22Lambert+W+function%22+patent+uspto&btnG= 
 - The calculation of exchange forces: General results and specific models, https://www.researchgate.net/profile/Tony-Scott-2/publication/234858519_The_calculation_of_exchange_forces_General_results_and_specific_models/links/55aefb1c08aee0799220ed2f/The-calculation-of-exchange-forces-General-results-and-specific-models.pdf
 - New analytical results in solid state physics using the Lambert W function, https://iopscience.iop.org/article/10.1088/1361-6404/ad009d/pdf
 - Cranmer, New views of the solar wind with the Lambert W function, *AJP* 2004, https://pubs-aip-org.proxy.library.emory.edu/aapt/ajp/article/72/11/1397/1056037/New-views-of-the-solar-wind-with-the-Lambert-W
