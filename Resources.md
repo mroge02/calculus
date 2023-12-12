@@ -65,8 +65,8 @@
 
 ### Lambert W
 
-- Corless, Gonnet, Hare, Jeffrey, Lambert's W Function in Maple, https://www.researchgate.net/publication/2457313_Lambert%27s_W_Function_in_Maple?enrichId=rgreq-d248507edad56395ece2341d0a3cbf8a-XXX&enrichSource=Y292ZXJQYWdlOzI0NTczMTM7QVM6OTc1NDAyOTY5Mzc0ODhAMTQwMDI2NjgyODA1MQ%3D%3D&el=1_x_2&_esc=publicationCoverPdf , [local file](file:///Users/mike/Downloads/LambertsWFunctionInMaple.pdf)
-- Corless, Gonnet, Hare, Jeffrey, Knuth, On the Lambert W function, Advances in Computational Mathematics volume 5, pages 329–359 (1996); https://link-springer-com.proxy.library.emory.edu/article/10.1007/BF02124750 , [local file](file:///Users/mike/Downloads/W.pdf)
+- Corless, Gonnet, Hare, Jeffrey, Lambert's W Function in Maple, https://www.researchgate.net/publication/2457313_Lambert%27s_W_Function_in_Maple?enrichId=rgreq-d248507edad56395ece2341d0a3cbf8a-XXX&enrichSource=Y292ZXJQYWdlOzI0NTczMTM7QVM6OTc1NDAyOTY5Mzc0ODhAMTQwMDI2NjgyODA1MQ%3D%3D&el=1_x_2&_esc=publicationCoverPdf , file:///Users/mike/Downloads/LambertsWFunctionInMaple.pdf
+- Corless, Gonnet, Hare, Jeffrey, Knuth, On the Lambert W function, Advances in Computational Mathematics volume 5, pages 329–359 (1996); https://link-springer-com.proxy.library.emory.edu/article/10.1007/BF02124750 , file:///Users/mike/Downloads/W.pdf
 - blackpenredpen video: intro https://www.youtube.com/watch?v=Qb7JITsbyKs (48m), solving eqns https://www.youtube.com/watch?v=elkUO6eRMvM (40m) { W(W(x))=1, W(x)=ln(2x), W(e^x)=(W(e))^x, 1+W((e^2-1)x)=e^2, W(9x-7)e^W(9x-7)=-1/e, W(e^(e^2+1+x^x))=x^x, W(e^(x+1))=x+1, W(x+1)=(x+1)^2, x^x^x=a }
 - https://mathworld.wolfram.com/LambertW-Function.html
 - The Lambert W Function Approach to Time Delay Systems, https://www.sciencedirect.com/science/article/pii/S147466701534708X
@@ -82,7 +82,7 @@
 - Solar Wind, http://sun.stanford.edu/~sasha/PHYS780/SOLAR_PHYSICS/L22/Lecture_22_PHYS780.pdf
 - Performance Computation of Sustainable Energy System Using PVLIB-Python, https://ieeexplore.ieee.org/abstract/document/10245622
 - Phase Behavior of Ternary Polymer Mixtures in a Common Solvent, https://pubs.acs.org/doi/full/10.1021/acsomega.3c02604
-- Schröder Based Inverse Function Approximation, [local file](file:///Users/mike/Downloads/F-00-Paper-Schroder-InverseFuncApprox-Preprint-July18-2023.pdf)
+- Schröder Based Inverse Function Approximation, file:///Users/mike/Downloads/F-00-Paper-Schroder-InverseFuncApprox-Preprint-July18-2023.pdf
 - Solar Cells, Lambert W and the LogWright Functions, https://arxiv.org/pdf/2307.08099.pdf
 - https://www.desmos.com/calculator/imz0dfzd65
 
