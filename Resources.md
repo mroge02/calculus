@@ -62,6 +62,7 @@
   * Pre-calc: The iteration for special values of $r$, observing conv. to fixed point, period-doubling, chaos
   * Post derivative: Criterion for convergence.
   * Post chain rule: $f \circ f$ and period 2 etc.
+- Bartlett, Period Three Implies Chaos, https://web.math.ucsb.edu/~padraic/ucsb_2013_14/math7h_s2014/math7h_s2014_lecture1.pdf
 
 ### Lambert W
 
@@ -230,6 +231,8 @@ https://eudml.org/doc/148175
 
 - Ma Rosa Massa Esteve, Symbolic language in early modern mathematics: The Algebra of Pierre Hérigone, https://www.sciencedirect.com/science/article/pii/S031508600800030X?via%3Dihub
 - Ossendrijver, Ancient Babylonian astronomers calculated Jupiter’s position from the area under a time-velocity graph, https://www-science-org.proxy.library.emory.edu/doi/10.1126/science.aad8085, https://www-science-org.proxy.library.emory.edu/doi/suppl/10.1126/science.aad8085/suppl_file/ossendrijver.sm.pdf
+- Cohen, [Galileo's Rejection of the Possibility of Velocity Changing Uniformly with Respect to Distance](https://www-jstor-org.proxy.library.emory.edu/stable/226890?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3Ad7ee19dcc6ceb3078c127eea30479403&typeAccessWorkflow=login)
+- Sherry, [On Instantaneous Velocity](https://www-jstor-org.proxy.library.emory.edu/stable/27743785?seq=1)
 
 
 ### Lagrange
